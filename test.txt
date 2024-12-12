@@ -1,3 +1,4 @@
 i want to learn git .
 it's a version controler .
 for fun...
+now i'm changing file for a new commit .
